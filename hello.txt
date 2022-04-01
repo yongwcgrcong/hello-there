@@ -5,4 +5,4 @@ hello git! hello wcgw!
 hello git! hello wcgw!
 hello git! hello wcgw!
 hello git! hello wcgw! conflict
-hello git! hello wcgw!
+hello git! hello wcgw! test
